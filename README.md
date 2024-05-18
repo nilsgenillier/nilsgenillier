@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nils
 - 👀 I’m interested in OOP and Video Games
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently making a game using Unity
 
 <!---
 nilsgenillier/nilsgenillier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
